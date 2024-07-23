@@ -1,4 +1,4 @@
-package basics;
+package programmers;
 import java.util.*;
 public class Solution_01 {
     public String solution(int[] numbers) {
